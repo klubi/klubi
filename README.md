@@ -2,7 +2,7 @@
 name: Piotr Klubinski
 aka: klubi
 roles:
-    current: Site Reliabiliy Engineer
+    current: Site Reliability Engineer
         where: Jamf
     past:
         - Quality Assurance
@@ -31,10 +31,8 @@ technologies:
         - spring
         - selenium
         - postman
-afterhours:
-    - name: MakeTestingHarder
-      type: Test Automation Consulting/Mentoring
-      contact: maketestingharder@gmail.com
+    ai:
+        - claude
 contact:
     - pklubinski@gmail.com
     - https://stackoverflow.com/users/2838206/klubi
