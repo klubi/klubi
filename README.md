@@ -2,39 +2,35 @@
 name: Piotr Klubinski
 aka: klubi
 roles:
-    current: Site Reliability Engineer
+    current: Staff Site Reliability Engineer
         where: Jamf
     past:
-        - Quality Assurance
-        - Software Engineer in Test
         - Software Engineer
+        - Software Engineer in Test
+        - Quality Assurance
 technologies:
     languages:
-        - java
-        - groovy
-        - python
         - go
-    devops:
-        - aws
-        - docker
+        - python
+        - java
+    platform:
         - kubernetes
         - terraform
         - helm
-        - jenkins
-        - spinnaker
-    sre: 
-        - Grafana
-        - Prometheus
-        - New Relic
-        - ELK Stack
-    misc:
-        - spring
-        - selenium
-        - postman
+        - aws
+        - docker
+        - argocd
+    observability:
+        - grafana
+        - prometheus
+        - thanos
+        - loki
+        - opentelemetry
     ai:
         - claude
+        - claude-code
+        - mcp
 contact:
-    - pklubinski@gmail.com
-    - https://stackoverflow.com/users/2838206/klubi
     - https://www.linkedin.com/in/piotrklubinski/
+    - pklubinski@gmail.com
 ```
